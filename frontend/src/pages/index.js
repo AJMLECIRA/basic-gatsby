@@ -1,5 +1,6 @@
-import * as React from "react"
+import * as React from "react";
+import App from "./app";
 
 export default function Home() {
-  return <div>Hello world!</div>
+  return <App></App>;
 }
